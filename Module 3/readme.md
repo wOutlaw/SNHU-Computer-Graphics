@@ -1,1 +1,1 @@
-Creates a pyramid shaded with different colors
+Creates a 3d primitive shaded with different colors
